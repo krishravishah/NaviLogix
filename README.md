@@ -1,5 +1,5 @@
-# NaviLogix
-Navigating Smarter Routes for Tomorrow’s Supply Chains
+# NaviLogix | Smarter Supply Chain Routing
+"Navigating Smarter Routes for Tomorrow’s Supply Chains."
 
 © Krish Ravi Shah, 2025. All rights reserved. 
 This project is for educational and personal use only. 

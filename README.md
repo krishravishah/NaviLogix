@@ -1,4 +1,4 @@
-# navilogix
+# NaviLogix
 Navigating Smarter Routes for Tomorrow’s Supply Chains
 
 © Krish Ravi Shah, 2025. All rights reserved. 

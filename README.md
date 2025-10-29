@@ -4,5 +4,8 @@
 
 © 2025 NaviLogix - Krish Ravi Shah. All rights reserved. 
 
-This project is intended for educational and personal use only.  
-No permission is granted to copy, modify, or distribute without prior written consent.
+This project was originally developed for educational and personal purposes and later customized for operational use by LP Group upon their request.
+
+Trained AI model files (.pkl) are included for demonstration. Full training scripts are available upon request for verification.
+
+Unauthorized copying, modification, or distribution is prohibited.

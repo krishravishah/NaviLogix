@@ -1,4 +1,4 @@
-# NaviLogix | Smarter Supply Chain Routing
+# NaviLogix | Track the Present. Predict the Future.
 *"Navigating Smarter Routes for Tomorrow’s Supply Chains."*
 
 NaviLogix consists of two projects:

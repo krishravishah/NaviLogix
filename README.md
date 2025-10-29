@@ -1,4 +1,4 @@
-# NaviLogix | Track the Present. Predict the Future.
+# NaviLogix | AI-Powered Logistics Intelligence
 *"Navigating Smarter Routes for Tomorrow’s Supply Chains."*
 
 NaviLogix consists of two projects:

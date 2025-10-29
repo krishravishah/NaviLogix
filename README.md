@@ -1,6 +1,9 @@
 # NaviLogix | Smarter Supply Chain Routing
 *"Navigating Smarter Routes for Tomorrow’s Supply Chains."*
 
+NaviLogix consists of two projects:
+1) NaviLogix Sim - "Simulating smarter routes through logistics visualization."
+2) NaviLogix Live - "Real-time logistics tracking powered by AI."
 
 © 2025 NaviLogix - Krish Ravi Shah. All rights reserved. 
 
